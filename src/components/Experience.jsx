@@ -7,6 +7,7 @@ import node from "../assets/node.png";
 import tailwind from "../assets/tailwind.png";
 import graphql from "../assets/graphql.png";
 import nextjs from "../assets/nextjs.png";
+import mongo from "../assets/mongodb.png"
 
 const Experience = () => {
 
@@ -58,6 +59,12 @@ const Experience = () => {
             src: graphql,
             titel: 'GraphQL',
             style: 'shadow-pink-400'
+        },
+        {
+            id: 9,
+            src: mongo,
+            titel: 'MongoDB',
+            style: 'shadow-green-500'
         },
     ]
 

@@ -1,37 +1,32 @@
 import React from "react";
-import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg";
-import installNode from "../assets/portfolio/installNode.jpg";
-import navbar from "../assets/portfolio/navbar.jpg";
-import reactParallax from "../assets/portfolio/reactParallax.jpg";
-import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
-import reactWeather from "../assets/portfolio/reactWeather.jpg";
+import comingSoon from "../assets/portfolio/comingSoon.png"
 
 const Portfolio = () => {
 //add links
     const portfolios = [
         {
             id: 1,
-            src: arrayDestruct
+            src: comingSoon
         },
         {
             id: 2,
-            src: reactParallax
+            src: comingSoon
         },
         {
             id: 3,
-            src: installNode
+            src: comingSoon
         },
         {
             id: 4,
-            src: navbar
+            src: comingSoon
         },
         {
             id: 5,
-            src: reactSmooth
+            src: comingSoon
         },
         {
             id: 6,
-            src: reactWeather
+            src: comingSoon
         },
     ]
 
