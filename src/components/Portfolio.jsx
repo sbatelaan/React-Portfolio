@@ -7,7 +7,7 @@ import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
 import reactWeather from "../assets/portfolio/reactWeather.jpg";
 
 const Portfolio = () => {
-
+//add links
     const portfolios = [
         {
             id: 1,
@@ -48,11 +48,12 @@ const Portfolio = () => {
           <p className="py-6">Check out my projects!</p>
         </div>
 
-    {
-        portfolios.map(({id, src}) => (
+    
 
-        <div key={id} className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
-          <div className="shadow-md shadow-gray-600 rounded-lg">
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
+        {
+        portfolios.map(({id, src}) => (
+            <div key={id} className="shadow-md shadow-gray-600 rounded-lg">
             <img
               src={src}
               alt=""
@@ -63,10 +64,12 @@ const Portfolio = () => {
               <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">Code</button>
             </div>
           </div>
+            ))
+        }
+          
         </div>
 
-))
-}
+      
       </div>
     </div>
   );
