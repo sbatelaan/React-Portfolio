@@ -15,8 +15,10 @@ function App() {
       <Social />
       <About />
       <Portfolio />
+      <div className="flex flex-wrap">
       <Experience />
       <Contact />
+      </div>
     </div>
   );
 }
