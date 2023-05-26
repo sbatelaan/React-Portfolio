@@ -32,7 +32,7 @@ const Social = () => {
             child: (
                 <>Resume <BsFillPersonLinesFill size={30}/></>
             ),
-            href: '/Resume(3).pdf',
+            href: process.env.PUBLIC_URL + '/Resume(3).pdf',
             style: 'rounded-br-md',
             download: true,
         }
