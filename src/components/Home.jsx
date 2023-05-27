@@ -13,7 +13,7 @@ const Home = () => {
                     Full Stack Web Developer
                 </h2>
                 <p className="text-gray-500 py-4 max-w-md">
-                Passionate about creating innovative and efficient solutions through coding
+                Driven software engineer experienced in developing innovative and scalable solutions to complex challenges.
                 </p>
                 <div>
                     <Link to="portfolio" smooth duration={500} className=" group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-400 to-blue-500 cursor-pointer">
@@ -25,7 +25,7 @@ const Home = () => {
                 </div>
             </div>
             <div>
-                <img src={profilePic} alt="Stephen" className="rounded-2xl mx-auto w-2/3 md:w-full" />
+                <img src={profilePic} alt="Stephen Batelaan" className="rounded-2xl mx-auto w-1/2 md:w-2/3" />
             </div>
         </div>
     </div>
