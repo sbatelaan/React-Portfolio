@@ -6,7 +6,6 @@ import javascript from "../assets/javascript.png";
 import node from "../assets/node.png";
 import tailwind from "../assets/tailwind.png";
 import graphql from "../assets/graphql.png";
-import nextjs from "../assets/nextjs.png";
 import mongo from "../assets/mongodb.png"
 
 const Experience = () => {
@@ -15,55 +14,49 @@ const Experience = () => {
         {
             id: 1,
             src: html,
-            titel: 'HTML',
+            title: 'HTML',
             style: 'shadow-orange-500'
         },
         {
             id: 2,
             src: css,
-            titel: 'CSS',
+            title: 'CSS',
             style: 'shadow-blue-500'
         },
         {
             id: 3,
             src: reactimg,
-            titel: 'React',
+            title: 'React',
             style: 'shadow-blue-600'
         },
         {
             id: 4,
             src: javascript,
-            titel: 'JavaScript',
+            title: 'JavaScript',
             style: 'shadow-yellow-500'
         },
         {
             id: 5,
             src: node,
-            titel: 'TailWind',
+            title: 'NodeJS',
             style: 'shadow-green-400'
         },
         {
             id: 6,
             src: tailwind,
-            titel: 'Tailwind',
+            title: 'Tailwind',
             style: 'shadow-sky-400'
         },
         {
             id: 7,
-            src: nextjs,
-            titel: 'NextJS',
-            style: 'shadow-white'
-        },
-        {
-            id: 8,
             src: graphql,
-            titel: 'GraphQL',
+            title: 'GraphQL',
             style: 'shadow-pink-400'
         },
         {
-            id: 9,
+            id: 8,
             src: mongo,
-            titel: 'MongoDB',
+            title: 'MongoDB',
             style: 'shadow-green-500'
         },
     ]
