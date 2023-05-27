@@ -8,11 +8,23 @@ const About = () => {
                 <p className="text-4xl font-bold inline border-b-4 border-gray-500">About</p>
             </div>
             <p className="text-xl mt-20">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa rem, ea enim, labore libero eos iste praesentium beatae voluptatum numquam obcaecati excepturi aperiam ipsum accusamus. Sunt non hic aliquam vero!
+            Hello! I'm Stephen Batelaan, a recent graduate of the Full Stack Web Development Bootcamp at the University of California, Irvine. I am a passionate web developer proficient in JavaScript, with a focus on the MERN stack (MongoDB, Express, React, Node.js).
             </p>
             <br />
             <p className="text-xl">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt iure dolorum, vel quos fugiat libero error sed at praesentium consequatur est, laboriosam ipsam sunt ipsum saepe deleniti in, officiis pariatur.
+            Coming from a background in serving in fine dining restaurants, I bring a unique set of skills to the table. I thrive in high-pressure situations, excel in time management, and have excellent communication skills.
+            </p>
+            <br />
+            <p className="text-xl">
+            What drives me as a developer is the opportunity to continuously learn and build things. I am an avid learner, always staying up-to-date with the latest web technologies and best practices. I am enthusiastic about tackling new challenges and finding innovative solutions.
+            </p>
+            <br />
+            <p className="text-xl">
+            I am dedicated to helping you achieve your development needs and goals. Whether it's developing a robust web application or creating an engaging user experience, I am committed to delivering high-quality results.
+            </p>
+            <br />
+            <p className="text-xl">
+            Let's work together to bring your ideas to life and create exceptional web solutions!
             </p>
         </div>
     </div>
