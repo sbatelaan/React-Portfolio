@@ -113,7 +113,7 @@ const Experience = () => {
             Experience
           </p>
           <p className="py-6">
-            These are the technologies I have worked with so far
+          With hands-on experience in JavaScript, HTML, CSS, React, Node.js, and more, I have worked with a versatile range of technologies to develop innovative web solutions.
           </p>
         </div>
 
