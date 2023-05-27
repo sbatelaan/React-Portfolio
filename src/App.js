@@ -13,14 +13,11 @@ function App() {
       <NavBar />
       <Home />
       <Social />
-      
       <About />
-      <div className="flex flex-wrap">
       <Portfolio />
       <Technologies />
       <Contact />
       </div>
-    </div>
   );
 }
 
