@@ -6,7 +6,7 @@ const Contact = () => {
       <div className="flex flex-col p-4 justify-center max-w-screen-lg mx-auto">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">Contact</p>
-          <p className="py-6">Submit form to contact me</p>
+          <p className="py-6">I would love to hear from you! Please feel free to reach out to me using the contact form below.</p>
         </div>
 
         <div className="flex justify-center items-center">
@@ -16,18 +16,18 @@ const Contact = () => {
             <input
               type="text"
               name="name"
-              placeholder="Enter your name"
+              placeholder="Name"
               className="p-2 bg-transparent border-2 rounded-md text-white focus:outline-none"
             />
             <input
               type="text"
               name="email"
-              placeholder="Enter your E-mail"
+              placeholder="E-mail"
               className="my-4 p-2 bg-transparent border-2 rounded-md text-white focus:outline-none"
             />
             <textarea
               name="message"
-              placeholder="Enter your message"
+              placeholder="Message"
               rows="10"
               className="p-2 bg-transparent border-2 rounded-md text-white focus:outline-none"
             ></textarea>
