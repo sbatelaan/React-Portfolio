@@ -29,7 +29,7 @@ const NavBar = () => {
 
   return (
     //can remove fixed if I want navigation bar to scroll with the page
-    <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed">
+    <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed z-10">
       <div>
         <h1 className="text-5xl font-signature ml-2">Stephen Batelaan</h1>
       </div>
