@@ -11,7 +11,7 @@ const Portfolio = () => {
         {
             id: 1,
             src: UrSpace,
-            demoLink: "https://urspace.herokuapp.com/",
+            demoLink: "https://urrspace.herokuapp.com/",
             codeLink: "https://github.com/sbatelaan/urspace",
             name: "UrSpace"
         },
