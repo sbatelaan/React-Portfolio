@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.b8b5441d.css",
+    "main.js": "/React-Portfolio/static/js/main.40803a33.js",
+    "static/media/profile.png": "/React-Portfolio/static/media/profile.550890b747ae62c3d0dc.png",
+    "static/media/UrSpace.png": "/React-Portfolio/static/media/UrSpace.3e0607eb86a241209a80.png",
+    "static/media/marketplace.png": "/React-Portfolio/static/media/marketplace.2ca42b66f2ba9f072503.png",
+    "static/media/tech-blog.png": "/React-Portfolio/static/media/tech-blog.2f198e56f50a1b2d22ca.png",
+    "static/media/graphql.png": "/React-Portfolio/static/media/graphql.fc6b9451733c620ceb86.png",
+    "static/media/comingSoon.png": "/React-Portfolio/static/media/comingSoon.ec68f3b2c70b02ac0af2.png",
+    "static/media/reactimg.png": "/React-Portfolio/static/media/reactimg.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/React-Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongodb.png": "/React-Portfolio/static/media/mongodb.c964002ecef4971216d0.png",
+    "static/media/html.png": "/React-Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/React-Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/React-Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/React-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.b8b5441d.css.map": "/React-Portfolio/static/css/main.b8b5441d.css.map",
+    "main.40803a33.js.map": "/React-Portfolio/static/js/main.40803a33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8b5441d.css",
+    "static/js/main.40803a33.js"
+  ]
+}
